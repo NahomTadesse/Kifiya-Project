@@ -1,0 +1,157 @@
+.img2{
+    margin-top: 400px;
+    margin-left: 279px;
+    width: 385px;
+    height: 413px;
+    background: transparent url('../Components/Images/freelancer-bearded-man-taking-notes-laptop_85574-3146.png') 0% 0% no-repeat padding-box;
+    box-shadow: 0px 12px 15px #00000029;
+    opacity: 1;
+  
+  }
+  .dotBox{
+    margin-top: -400px;
+    margin-left: 500px;
+    width: 385px;
+    height: 385px;
+    background: transparent url('../Components/Images/AssetBox.png') 0% 0% no-repeat padding-box;
+   
+    opacity: 1;
+
+  }
+  .x{
+  
+  margin-bottom: 280px;
+  margin-left: -500px;
+  width: 162px;
+  height: 162px;
+  border: 35px solid var(--unnamed-color-27debf);
+  border: 35px solid #27DEBF;
+  opacity: 1;
+  border-radius: 50%
+    
+  }
+  .title1{
+    margin-top: -350px;
+  margin-left: 820px;
+  width: 43px;
+  height: 8px;
+  
+  color: var(--unnamed-color-27debf);
+  text-align: left;
+  font: normal normal normal 8px/43px Josefin Sans;
+  letter-spacing: 0px;
+  color: #27DEBF;
+  text-transform: uppercase;
+  opacity: 1;
+  }
+  .aboutUs-title {
+    margin-top: 40px;
+  margin-left: 820px;
+  width: 205px;
+  height: 47px;
+
+  text-align: left;
+  font: normal normal bold 21px/26px Josefin Sans;
+  letter-spacing: 0px;
+  color: #151D41;
+  opacity: 1;
+
+  
+  }
+  .paragraph{
+    margin-top: 40px;
+  margin-left: 820px;
+  width: 322px;
+  height: 222px;
+  text-align: left;
+  font: normal normal normal 18px/25px Josefin Sans;
+  letter-spacing: 0px;
+  color: #151D41;
+  opacity: 1;
+
+  }
+  .about-btn{
+    margin-top: 30px;
+  margin-left: 820px;
+  
+  width: 164px;
+  height: 52px;
+color: white;
+  background: var(--unnamed-color-27debf) 0% 0% no-repeat padding-box;
+  background: #27DEBF 0% 0% no-repeat padding-box;
+  border-radius: 5px;
+  opacity: 1;
+  }
+  
+  .percents{
+    margin-top: 5%;
+    margin-left: 20%;
+    margin-right: 20%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+  }
+  .percents-one{
+
+    width: 150px;
+    height: 150px;
+    border: 35px solid var(--unnamed-color-27debf);
+  border: 20px solid #27DEBF;
+
+  border-radius: 50%;
+
+  text-align: center;
+  background: var(--unnamed-color-ffffff) 0% 0% no-repeat padding-box;
+border: 15px solid var(--unnamed-color-27debf);
+background: #FFFFFF 0% 0% no-repeat padding-box;
+border: 15px solid #27DEBF;
+opacity: 1;
+
+  }
+  .percents-two{
+  
+    width: 150px;
+    height: 150px;
+    border: 20px solid #27DEBF;
+
+  border-radius: 50%;
+
+  text-align: center;
+  background: var(--unnamed-color-ffffff) 0% 0% no-repeat padding-box;
+border: 15px solid var(--unnamed-color-27debf);
+background: #FFFFFF 0% 0% no-repeat padding-box;
+border: 15px solid #27DEBF;
+opacity: 1;
+  }
+  .percents-three{
+  
+    width: 150px;
+    height: 150px;
+    border: 20px solid #27DEBF;
+
+  border-radius: 50%;
+
+  text-align: center;
+  background: var(--unnamed-color-ffffff) 0% 0% no-repeat padding-box;
+border: 15px solid var(--unnamed-color-27debf);
+background: #FFFFFF 0% 0% no-repeat padding-box;
+border: 15px solid #27DEBF;
+opacity: 1;
+  }
+  .percents-four{
+ 
+    width: 150px;
+    height: 150px;
+    border: 20px solid #27DEBF;
+
+    border-radius: 50%;
+  
+    text-align: center;
+    background: var(--unnamed-color-ffffff) 0% 0% no-repeat padding-box;
+  border: 15px solid var(--unnamed-color-27debf);
+  background: #FFFFFF 0% 0% no-repeat padding-box;
+  border: 15px solid #27DEBF;
+  opacity: 1;
+
+  }
