@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "weatherapp",
+    "slug": "weatherapp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "d0f2b684-5c1f-4a0a-9dd9-14bd521f1da2"
+      }
+    }
+  }
+}
